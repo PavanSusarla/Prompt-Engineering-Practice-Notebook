@@ -50,10 +50,6 @@ pip install openai langchain chromadb tiktoken transformers
 
 ---
 
-## 🔑 API Key Setup
-
-1. Get your API key from [OpenAI](https://platform.openai.com/account/api-keys).
-2. Replace `"Your_key"` in the notebook with your real key, OR set it as an environment variable:
 
 ```bash
 # Windows
